@@ -1654,6 +1654,12 @@ approvers:
       - helm-triagers
     html_url: https://github.com/jvoravong
     avatar_url: https://avatars.githubusercontent.com/u/47871238?v=4
+  - name: kakkoyun
+    teams:
+      - go-compile-instrumentation-approvers
+      - go-compile-instrumentation-triagers
+    html_url: https://github.com/kakkoyun
+    avatar_url: https://avatars.githubusercontent.com/u/536449?v=4
   - name: kamphaus
     teams:
       - semconv-cicd-approvers
